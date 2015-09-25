@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>archeostickers</title>
+    <description>archeostickers a collection of stickers for Telegram about art and archeology
+</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 25 Sep 2015 14:59:55 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2015 14:59:55 +0200</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Sally</title>
+        <description>
+</description>
+        <pubDate>Sun, 04 Jan 2015 00:00:00 +0100</pubDate>
+        <link>/paintings/sally</link>
+        <guid isPermaLink="true">/paintings/sally</guid>
+        
+        <category>paintings</category>
+        
+        <category>thinkspace</category>
+        
+        
+        <category>paintings</category>
+        
+      </item>
+    
+      <item>
+        <title>The Tower</title>
+        <description>
+</description>
+        <pubDate>Sat, 03 Jan 2015 00:00:00 +0100</pubDate>
+        <link>/paintings/the-tower</link>
+        <guid isPermaLink="true">/paintings/the-tower</guid>
+        
+        <category>paintings</category>
+        
+        <category>thinkspace</category>
+        
+        
+        <category>paintings</category>
+        
+      </item>
+    
+      <item>
+        <title>Mitosis</title>
+        <description>
+</description>
+        <pubDate>Fri, 02 Jan 2015 00:00:00 +0100</pubDate>
+        <link>/paintings/mitosis</link>
+        <guid isPermaLink="true">/paintings/mitosis</guid>
+        
+        <category>paintings</category>
+        
+        <category>thinkspace</category>
+        
+        
+        <category>paintings</category>
+        
+      </item>
+    
+      <item>
+        <title>Charlie</title>
+        <description>
+</description>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+        <link>/paintings/charlie</link>
+        <guid isPermaLink="true">/paintings/charlie</guid>
+        
+        <category>paintings</category>
+        
+        <category>thinkspace</category>
+        
+        
+        <category>paintings</category>
+        
+      </item>
+    
+      <item>
+        <title>Chapter 23</title>
+        <description>
+</description>
+        <pubDate>Fri, 03 Oct 2014 00:00:00 +0200</pubDate>
+        <link>/paintings/chapter-23</link>
+        <guid isPermaLink="true">/paintings/chapter-23</guid>
+        
+        <category>paintings</category>
+        
+        <category>sogan</category>
+        
+        
+        <category>paintings</category>
+        
+      </item>
+    
+      <item>
+        <title>I&#39;m Your Puppet</title>
+        <description>
+</description>
+        <pubDate>Thu, 02 Oct 2014 00:00:00 +0200</pubDate>
+        <link>/paintings/im-your-puppet</link>
+        <guid isPermaLink="true">/paintings/im-your-puppet</guid>
+        
+        <category>paintings</category>
+        
+        <category>sogan</category>
+        
+        
+        <category>paintings</category>
+        
+      </item>
+    
+      <item>
+        <title>Magnolia</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Oct 2014 00:00:00 +0200</pubDate>
+        <link>/paintings/magnolia</link>
+        <guid isPermaLink="true">/paintings/magnolia</guid>
+        
+        <category>paintings</category>
+        
+        <category>thinkspace</category>
+        
+        
+        <category>paintings</category>
+        
+      </item>
+    
+      <item>
+        <title>Howl</title>
+        <description>
+</description>
+        <pubDate>Mon, 01 Sep 2014 00:00:00 +0200</pubDate>
+        <link>/paintings/howl</link>
+        <guid isPermaLink="true">/paintings/howl</guid>
+        
+        <category>paintings</category>
+        
+        <category>thinkspace</category>
+        
+        
+        <category>paintings</category>
+        
+      </item>
+    
+      <item>
+        <title>Dollhouse</title>
+        <description>
+</description>
+        <pubDate>Sat, 02 Aug 2014 00:00:00 +0200</pubDate>
+        <link>/paintings/dollhouse</link>
+        <guid isPermaLink="true">/paintings/dollhouse</guid>
+        
+        <category>paintings</category>
+        
+        <category>gallerysogan</category>
+        
+        <category>art-tapei</category>
+        
+        
+        <category>paintings</category>
+        
+      </item>
+    
+      <item>
+        <title>Migration</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+        <link>/paintings/migration</link>
+        <guid isPermaLink="true">/paintings/migration</guid>
+        
+        <category>paintings</category>
+        
+        <category>gallerysogan</category>
+        
+        <category>art-tapei</category>
+        
+        
+        <category>paintings</category>
+        
+      </item>
+    
+  </channel>
+</rss>
