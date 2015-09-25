@@ -1,11 +1,11 @@
 # Site settings
-title: Jolene Lai - Fine Artist
-email: enelojial@gmail.com
+title: archeostickers
+email: contact@opensensorsdata.it
 description: > # this means to ignore newlines until "baseurl:"
-  Paintings and Illustrations by Jolene Lai
+  archeostickers a collection of stickers for Telegram about art and archeology
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.enelojial.com" # the base hostname & protocol for your site
-twitter_username: enelojial
+url: "" # the base hostname & protocol for your site
+twitter_username: osd_it
 
 # Build settings
 markdown: kramdown
