@@ -3,7 +3,7 @@ title: archeostickers
 email: contact@opensensorsdata.it
 description: > # this means to ignore newlines until "baseurl:"
   archeostickers a collection of stickers for Telegram about art and archeology
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: osd_it
 
