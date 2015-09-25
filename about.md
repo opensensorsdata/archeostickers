@@ -6,7 +6,7 @@ redirect_from: /about.html
 ---
 
 <div class="logo">
-  <img src="/images/enelojial.jpg" alt="enelojial hello fish logo">
+  <img src="../images/enelojial.jpg" alt="enelojial hello fish logo">
 </div>
 
 <!--End mc_embed_signup-->
