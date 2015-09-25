@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jolene Lai
+title: archeostickers
 permalink: /about/
 redirect_from: /about.html
 ---
