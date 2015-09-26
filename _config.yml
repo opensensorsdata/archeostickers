@@ -1,32 +1,62 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
 # Site settings
 title: archeostickers
-email: contact@opensensorsdata.it
-description: > # this means to ignore newlines until "baseurl:"
-  archeostickers a collection of stickers for Telegram about art and archeology
-baseurl: "/archeostickers" # the subpath of your site, e.g. /blog/
-url: "http://opensensorsdata.it" # the base hostname & protocol for your site
-twitter_username: osd_it
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 964F4C
+  secondary: 9BB7D4  
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: opensensorsdata
+  pic: 1
+  position: Ideazione e Realizzazione
+  social:
+    - title: home
+      url: http://opensensorsdata.it
+    - title: twitter
+      url: https://twitter.com/osd_it
+    - title: github
+      url: https://github.com/opensensorsdata
+
+- name: Professione Archeologo
+  pic: 2
+  position: Ricerca Scientifica e d'Archivio
+  social:
+    - title: home
+      url: http://www.professionearcheologo.it/
+    - title: twitter
+      url: https://twitter.com/pr_archeologo
+    - title: facebook
+      url: https://www.facebook.com/ProfessioneArcheologo
+
+- name: Archeopop
+  pic: 3
+  position: Ricerca Scientifica, Sviluppo Social 
+  social:
+    - title: home
+      url: http://www.civettadiatena.it/
+    - title: twitter
+      url: https://twitter.com/archeo_pop
+    - title: instagram
+      url: https://instagram.com/archeopop/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/opensensorsdata
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line: 
 
 # Build settings
 markdown: kramdown
-
-permalink: /:categories/:title
-
-defaults:
-  -
-    scope:
-      path: "illustrations"
-    values:
-      categories: illustrations
-  -
-    scope:
-      path: "paintings"
-    values:
-      categories: paintings
-
-gems:
-    - jekyll-redirect-from
-    - jekyll-sitemap
-
-sass:
-    style: :compressed
+permalink: pretty

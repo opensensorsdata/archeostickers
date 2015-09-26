@@ -1,23 +1,21 @@
 <!DOCTYPE html>
-<html class="default-page">
+<html>
 
-  <head>
-   {% include head-base.html %}
-   {% include default-meta.html %}
-  </head>
+  {% include head.html %}
 
-  <body class="default-page">
 
-    <div class="main-nav no-rotate">
-      {% include nav.html %}
-    </div>
+    <body id="page-top" class="index">
 
-    <div class="container">
-      <div class="content">
-        {{ content }}
-      </div>
-    </div>
+    {% include header.html %}
+    {% include portfolio_grid.html %}
+    {% include services.html %}
+    {% include about.html %}
+    {% include team.html %}
+    {% include clients.html %}
+    {% include contact.html %}
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
 
-  </body>
-
+    </body>
 </html>
