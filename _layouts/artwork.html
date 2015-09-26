@@ -46,19 +46,20 @@ layout: artwork-base
   </div>
   <div class="wall" vocab="http://schema.org" typeof="VisualArtwork">
     <div class="frame">
-      <img property="image" class="artwork" src="{{ page.image_url | prepend: site.baseurl }}" alt="{{ page.title }}, {{ page.media }}, {{ page.width }} x {{ page.height }}, Jolene Lai, {{ page.date | date: "%Y" }}">
+      <img property="image" class="artwork" src="{{ page.image_url | prepend: site.baseurl }}" alt="{{ page.title }}, {{ page.media }}, {{ page.width }} x {{ page.height }}, {{ page.name }}, {{ page.date | date: "%Y" }}">
     </div>
     <div class="bottom-spacer"></div>
     <div class="bottom">
       <p class="title" property="name">{{ page.title }}</p>
       <p class="description">
-        <span property="material">{{ page.media }}</span> on
+        <!-- <span property="material">{{ page.media }}</span> on
         <span property="surface">{{page.surface }}</span>  &bull;
         <span property="width">{{ page.width }}"</span> x
-        <span property="height">{{ page.height }}"</span>   &bull;
+        <span property="height">{{ page.height }}"</span>   &bull; -->
+        <span property="source"><a href="{{ page.link }}">{{ page.source }}</a></span>
         <span property="copyrightHolder" vocab="http://schema.org" typeof="Person">
           <a href="/about" property="url">
-            <span property="name">Jolene Lai</span>
+            <span property="name">{{ page.name }} </span>
           </a>
         </span>   &bull;
         <span property="copyrightYear">{{ page.date | date: "%Y" }}</span>
